@@ -1,1 +1,1 @@
-# its a repositories with fonts projects
+# its a repository with fonts projects
