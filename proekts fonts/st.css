@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    font-family: 'myFirstFont', sans-serif;
+    font-size: 5em;
+    color: red;
+}
+@font-face {
+  font-family: myFirstFont;
+  src: url(melted_monster/Melted\ Monster.ttf);
+}
